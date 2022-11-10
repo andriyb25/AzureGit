@@ -1,0 +1,9 @@
+{
+	"name": "myGitDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df0487e2-b9b2-4820-874b-47e345bdcea5",
+		"tenantId": "edb917d5-3b71-451b-ad36-05ba22575973"
+	}
+}
